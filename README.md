@@ -1,0 +1,2 @@
+- A PhD student from National Institute of Chemistry, Slovenia.
+- Using Python to analyze spectroscopic and electrochemical data. 👩🏼‍🔬
